@@ -8,3 +8,4 @@ a=`cat $filename`
 ls -ltr
 echo $a
 echo "I am in Build and Release Trainings" >> $filename
+echo $name >> $filename
