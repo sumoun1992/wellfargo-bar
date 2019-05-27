@@ -7,4 +7,4 @@ ls -ltr
 a=`cat $filename`
 ls -ltr
 echo $a
-echo "I am in Build and Release Training" >> $filename
+echo "I am in Build and Release Trainings" >> $filename
