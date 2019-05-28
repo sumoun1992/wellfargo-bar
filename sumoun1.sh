@@ -1,4 +1,4 @@
-#!c:\cygwin\bin\bash
+#!/bin/bash
 
 pwd
 
